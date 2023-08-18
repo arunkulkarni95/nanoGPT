@@ -62,3 +62,5 @@ config.ini
 logs/
 log/
 log.txt
+
+scrape_results/
